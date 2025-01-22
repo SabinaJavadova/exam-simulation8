@@ -1,0 +1,24 @@
+.container{
+    width: 80%;
+    display: flex;
+    margin: auto;
+
+ .con{
+    display: flex;
+    margin-top: 1rem;
+ }
+    input{
+        width: 50%;
+        margin: auto;
+        padding: 5px;
+        border: none;
+        border-bottom: 1px solid gray;
+        display: flex;
+        margin-top: 3rem;
+    }
+   
+    
+    img{
+        width: 100%;
+    }
+}
